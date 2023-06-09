@@ -150,6 +150,21 @@ def main(args=None):
 \033[1;37m╚═════════════════════════════════════════════╝
 """)
     print("")
+    
+    import getpass
+attemps = 0
+while attemps <12345677901:
+
+	password = input (' \n\033[1;37m[+]\033[1;33m Enter Password : ')
+	if  password == '8080':
+		print (' \033[1;92m[💛]You have a successfully login! ')
+		break
+	else:
+		print ('\n\033[1;37m[!]\033[1;31m Invalid Password! \033[1;37mTry again... \n\n\033[1;37m*\033[1;92mThis Tools is Paid. Contact Owner to Buy this Tools. \n Whatsapp +8801613016943')
+		attemps += 1
+		continue
+		os.system('clear')
+
 
     if args and args.single_password and args.password_list:
         print(CliColors.FAIL+"[x] You can't use single password with password list.")
