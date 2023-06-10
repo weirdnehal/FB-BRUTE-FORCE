@@ -78,3 +78,12 @@ THIS REPOSITORY AND EVERY SCRIPT INCLUDED IN IT IS FOR EDUCATIONAL, TESTING, AND
 
 # License
 [WTFPL License](LICENSE)
+
+### NOTE: THIS TOOLS IS PAID. PURCHASE TOOLS PASSWORD TO RUN
+
+<p align="left">
+  <a href="https://github.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/Github-weirdnehal-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/nehalahmed.10" target="_blank"><img src="https://img.shields.io/badge/IG-%40Nehal Ahmed-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://m.me/nehal.ahmed6" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+</p>
+
