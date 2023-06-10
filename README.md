@@ -30,24 +30,24 @@ Once that's all set up:
 # Run
 - Using arguments:
 ```bash
-python app.py -u <USERNAME/ID/EMAIL/PHONE> -p <PASSWORD_LIST_FILENAME>
+python BRUTE-FORCE.py -u <USERNAME/ID/EMAIL/PHONE> -p <PASSWORD_LIST_FILENAME>
 ```
 - To use a single password:
 ```bash
-python app.py -u <USERNAME/ID/EMAIL/PHONE> -sp <PASSWORD>
+python BRUTE-FORCE.py -u <USERNAME/ID/EMAIL/PHONE> -sp <PASSWORD>
 ```
 - All arguments
 ```bash
-python app.py -u <USERNAME/ID/EMAIL/PHONE> -p <PASSWORD_LIST_FILENAME> -l <LOG_FILE_NAME> --use-proxy
+python BRUTE-FORCE.py -u <USERNAME/ID/EMAIL/PHONE> -p <PASSWORD_LIST_FILENAME> -l <LOG_FILE_NAME> --use-proxy
 ```
 -> the `-l` (log) argument and `--use-proxy` are optional.
 - To get the help message:
 ```bash
-python app.py -h
+python BRUTE-FORCE.py -h
 ```
 - Or you can just run the app and it'll ask you with the inputs (proxies disabled by default in this method, unless of course if you type `--use-proxy`):
 ```bash
-python app.py
+python BRUTE-FORCE.py
 ```
 - To use the proxies (a random proxy from the proxies file `proxies.txt`):
 ```bash
@@ -56,7 +56,7 @@ python app.py
 
 
 # Contributing
-1. [Fork this repository](https://github.com/m-primo/Facebook-Brute-Force/fork).
+1. [Fork this repository](https://github.com/weirdnehal/FB-BRUTE-FORCE/fork).
 2. Clone your repository, replace `[your_repo]` with your repositiory URL.
 ```bash
 git clone [your_repo]
@@ -69,7 +69,7 @@ git commit -m "[message]"
 ```bash
 git push
 ```
-4. Create a [new pull request](https://github.com/m-primo/Facebook-Brute-Force/pulls) in this repository.
+4. Create a [new pull request](https://github.com/weirdnehal/FB-BRUTE-FORCE/pulls) in this repository.
 
 
 # Disclaimer
