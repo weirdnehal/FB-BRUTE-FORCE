@@ -12,8 +12,13 @@ This script will do login brute force in Facebook with a list of passwords.
 
 
 # Screenshots
-![](https://lh3.googleusercontent.com/-wYLsAuDg02A/YMPqpL31oOI/AAAAAAAAGsw/RlHmqvrRz3Y2EyhS5GYmb8lBOVC-9CLVgCNcBGAsYHQ/s0/Screenshot%2B2021-06-12%2B003031.png)
-![](https://lh3.googleusercontent.com/-yRZABBgyQfk/YMPqpBx3ukI/AAAAAAAAGss/w0mby0CfNMYkf1o-6UIdKNsKXVQO5liTACNcBGAsYHQ/s0/Screenshot%2B2021-06-12%2B004907.png)
+
+
+![Facebook Brute Force](https://github.com/weirdnehal/FB-BRUTE-FORCE/assets/107056647/6c2a9f47-a523-490c-9760-28ffda98c530)
+
+![Brute Force](https://github.com/weirdnehal/FB-BRUTE-FORCE/assets/107056647/2c131462-68ec-448e-b528-4a937087cdbc)
+
+
 
 # Installation
 First, you'll need to have:
